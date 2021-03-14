@@ -11,4 +11,4 @@ This week I'm learning SQL.
 Thank you for letting me introduce myself,
 Hopefully see you around.
 
-bealeness.
+bealeness..
